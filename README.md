@@ -1,13 +1,30 @@
-Hi there 👋
+# Hi there, I'm Adil 👋
 
-Here are some ideas to get you started:
+Senior Flutter Developer passionate about building real-time cross-platform applications and SDKs.
 
-- 🔭 I’m currently working on Ignite Tournament App
-- 🌱 I’m currently learning NestJs
-- 👯 I’m looking to collaborate on Flutter App
-- 🤔 I’m looking for ...
-- 💬 Ask me about Flutter/NestJs
-- 📫 How to reach me: adil.sakout@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+- 🔭 Currently building tournament gaming platform at Ignite Tournament
+- 🌱 Expanding my backend expertise with NestJS
+- 💡 Specialized in real-time systems and clean architecture
+- 🎯 Reduced app errors by 85% using Riverpod state management
+
+## 💬 Let's Connect About
+- Flutter Development & Architecture
+- Real-time Systems Integration
+- Cross-platform Solutions
+- State Management Patterns
+- NestJS Backend Development
+
+## 🛠️ Tech Stack
+- Flutter & Dart
+- Firebase Suite
+- Riverpod & Bloc
+- MQTT & WebSockets
+- NestJS
+- Clean Architecture
+
+## 📫 Reach Me
+- Email: adil.sakout@gmail.com
+- LinkedIn [adil-sakout](https://www.linkedin.com/in/adil-sakout/)
+
 
